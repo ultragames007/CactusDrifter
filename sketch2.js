@@ -13,7 +13,7 @@ let font;
 let mySong, loosesound;
 let showhitbox=false; // Shows the car hitboxes for debbuging
 let sonido=true; // Turns on sound.
-let PlaywithMouse=true; // Prender apagar el mouse.
+let PlaywithMouse=false; // Prender apagar el mouse.
 let faseruta=1;
 
 
