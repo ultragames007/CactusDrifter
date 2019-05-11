@@ -18,7 +18,7 @@ let faseruta=1;
 
 
 function preload() {
-    font = loadFont("font/ARCADECLASSIC.ttf"); //Cargo la font del Score
+    font = loadFont("font/ARCADECLASSIC.TTF"); //Cargo la font del Score
   soundFormats('mp3', 'ogg');
   mySong = loadSound("music/RunningInThe90s.mp3");
   loosesound =  loadSound("music/loose.mp3"); 
